@@ -1,0 +1,47 @@
+.register-page {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    
+}
+
+.register-form-div input {
+    text-align: center;
+    border-radius: 3px;
+    line-height: 1;
+  }
+
+.register-form {
+    justify-content: center;
+}
+.register-ul li{
+    list-style: none;
+}
+
+.register-form-div {
+    justify-content: center;
+    margin: 4px;
+    text-align: center;
+}
+
+.register-button {
+    width:50px;
+    height:25px;
+    justify-content:center;
+    align-items: center;
+    background-color:rgb(56, 56, 138);
+    color: white;
+    border-radius:4px;
+}
+
+.register-form-div-buttons {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.register-button-span {
+    font-size: 12px;
+}
+
